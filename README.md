@@ -18,9 +18,11 @@ Additionally, a recurring task should be created to run a procedure checking if 
 
 ### ER Diagram
 
-
+![alt text](https://github.com/iamk-cper/SQL-AuctionHouse/blob/main/er.jpg?raw=true)
 
 ### Database Schema
+
+![alt text](https://github.com/iamk-cper/SQL-AuctionHouse/blob/main/schema.jpg?raw=true)
 
 ### Tables:
 - Users - table containing user data
